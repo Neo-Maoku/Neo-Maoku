@@ -24,7 +24,7 @@
 
 **👉  [毛酷红队]  👈**
 
-<img src="assest/公众号.JPG" alt="公众号" width="220" height="220">
+<img src="assest/公众号.jpg" alt="公众号" width="220" height="220">
 
 ## 🤝 加入我们
 
