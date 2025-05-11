@@ -24,7 +24,7 @@
 
 **👉  [毛酷红队]  👈**
 
-<img src=".\assest\公众号.jpg" alt="公众号" style="zoom: 80%;" />
+<img src=".\assest\公众号.jpg" alt="公众号" style="zoom: 33%;" />
 
 ## 🤝 加入我们
 
@@ -36,7 +36,7 @@
 2.  添加好友时，请备注：**带上你的公司名字和职位，学生填学生**
 3.  我会邀请你加入 "**毛酷红队交流群**"
 
-<img src=".\assest\微信号.JPG" alt="微信号" style="zoom: 33%;" />
+<img src=".\assest\微信号.JPG" alt="微信号" style="zoom: 20%;" />
 
 ## 声明
 
