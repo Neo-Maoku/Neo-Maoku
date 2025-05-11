@@ -24,7 +24,7 @@
 
 **👉  [毛酷红队]  👈**
 
-<img src=".\assest\公众号.jpg" alt="公众号" style="zoom: 33%;" />
+<img src="assest/公众号.JPG" alt="公众号" width="220" height="220">
 
 ## 🤝 加入我们
 
@@ -34,9 +34,13 @@
 
 1.  添加我的个人微信：**[MaokuNeo]**
 2.  添加好友时，请备注：**带上你的公司名字和职位，学生填学生**
-3.  我会邀请你加入 "**毛酷红队交流群**"
+3.  我会邀请你加入 "**毛酷红队交流群**"，群里不定期分享最新红队免杀资料文档。
 
-<img src=".\assest\微信号.JPG" alt="微信号" width="200" height="200"" />
+<img src="assest/微信号.JPG" alt="微信号" width="200" height="200">
+
+![加我领资料](.\assest\加我领资料.png
+
+<img src="assest/加我领资料.png" alt="加我领资料" width="300" height="500">
 
 ## 声明
 
