@@ -38,7 +38,7 @@
 
 <img src="assest/微信号.JPG" alt="微信号" width="200" height="200">
 
-![加我领资料](.\assest\加我领资料.png
+**进群免费获取免杀资料包**
 
 <img src="assest/加我领资料.png" alt="加我领资料" width="300" height="500">
 
